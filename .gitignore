@@ -1,2 +1,7 @@
 station_hour.csv
 stations.csv
+output/
+.venv/
+__pycache__/
+models/
+models_multi/
